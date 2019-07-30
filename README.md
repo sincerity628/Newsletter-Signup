@@ -90,7 +90,9 @@ request(options, function(error, response, body){...});
 
 ![start5](markdown-img/start5.png)
 1. Set up
+
 &#8195;&#8195;同样的，需要注册相关账号，打开官方的参考文档，选择对应项目语言的教程，开始一步一步进行项目托管。
+
 &#8195;&#8195;首先，根据自己电脑型号下载对应最新版本的heroku。
 ![start6](markdown-img/start6.png)
 &#8195;&#8195;从命令行进入项目文件夹中，使用命令根据提示进行登入   
