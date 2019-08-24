@@ -155,7 +155,7 @@ $ heroku create
 Creating app... done, ⬢ stark-mesa-56915
 https://stark-mesa-56915.herokuapp.com/ | https://git.heroku.com/stark-mesa-56915.git
 ```
-生成的网址就是托管在heroku上的项目地址（可以分享给朋友），候着是项目github存放地址。
+生成的网址就是托管在heroku上的项目地址（可以分享给朋友），后者是项目github存放地址。
 ```
 $ git push heroku master
 ```
